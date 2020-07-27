@@ -57,6 +57,7 @@
                     p{
                         overflow: hidden;
                         font-size: 14px;
+                        font-family: Gilroy ☞;
                     }
                     &__title{
                         overflow: hidden !important;
@@ -64,6 +65,7 @@
                         font-size: 30px !important;
                         cursor: pointer;
                         max-width: 800px;
+                        font-family: Gilroy ☞;
                         &:hover{
                             color: $theme-color !important;
                         }
